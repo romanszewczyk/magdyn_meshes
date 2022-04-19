@@ -25,7 +25,7 @@ function res=J1(x)
 % DESCRIPTION:
 % Function calculating Bessel functions of the first kind, 1 order 
 % connected with the paper:
-% A. Ostaszewska-Li¿ewska, D. Kopala, R. Szewczyk
+% A. Ostaszewska-Lizewska, D. Kopala, R. Szewczyk
 % "Improved control of mesh density in adaptive tetrahedral meshes 
 % for finite element modeling"
 % submitted to Measurement Automation Robotics Journal
