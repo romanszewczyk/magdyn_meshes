@@ -24,7 +24,7 @@ function n=DoCircleSet(fid, zmin, zmax, r, hmax)
 %
 % DESCRIPTION:
 % Function creating the line of .msz file connected with the paper:
-% A. Ostaszewska-Li¿ewska, D. Kopala, R. Szewczyk
+% A. Ostaszewska-Lizewska, D. Kopala, R. Szewczyk
 % "Improved control of mesh density in adaptive tetrahedral meshes 
 % for finite element modeling"
 % submitted to Measurement Automation Robotics Journal
