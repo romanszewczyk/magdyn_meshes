@@ -23,7 +23,7 @@
 #
 # DESCRIPTION:
 # NETGEN .geo file connected with the paper:
-# A. Ostaszewska-Liżewska, D. Kopala, R. Szewczyk
+# A. Ostaszewska-Lizewska, D. Kopala, R. Szewczyk
 # "Improved control of mesh density in adaptive tetrahedral meshes 
 # for finite element modeling"
 # submitted to Measurement Automation Robotics Journal
